@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/s111659100596/s11165910/_apis/build/status/karpagam02.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/s111659100596/s11165910/_build/latest?definitionId=5&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
