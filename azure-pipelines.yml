@@ -1,4 +1,7 @@
 # Build ASP.NET Core project using Azure Pipelines
+- task: SonarQubePublish@4
+  inputs:
+    pollingTimeoutSec: '300'
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts
 
 pool:
